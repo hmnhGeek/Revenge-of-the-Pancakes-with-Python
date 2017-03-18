@@ -35,6 +35,8 @@ Large dataset
 1 ≤ length of S ≤ 100.
 
 ########################### How to Run ################################
+
+
 Step 1: python __init__.py
 
 Step 2: waiter> <input_file> <output_file>
