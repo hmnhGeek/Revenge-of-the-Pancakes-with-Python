@@ -34,6 +34,8 @@ Large dataset
 
 1 ≤ length of S ≤ 100.
 
+SEE FULL PROBLEM HERE: https://code.google.com/codejam/contest/6254486/dashboard#s=p1
+
 ########################### How to Run ################################
 
 
